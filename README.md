@@ -21,6 +21,7 @@ Este projeto apresenta o design visual de uma landing page para uma marca de cos
 
 - Tipografia elegante com destaque para títulos em vermelho vibrante
 
-![image](https://github.com/user-attachments/assets/d360506e-c883-4d02-84c7-2d4d50a7fd14)
 
 ![image](https://github.com/user-attachments/assets/26b84260-b86d-4ce6-8ee6-e4d6d1cd923e)
+
+![image](https://github.com/user-attachments/assets/d360506e-c883-4d02-84c7-2d4d50a7fd14)
